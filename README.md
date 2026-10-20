@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
   <img src="https://img.shields.io/badge/Track-AI%2FML-FF8C42?style=for-the-badge" alt="AI and ML"/>
-  <img src="https://img.shields.io/badge/Project-AZINHACK%20%2726-111827?style=for-the-badge" alt="AZINHACK 2026"/>
+  <img src="https://img.shields.io/badge/Project-Kritical%20Hacks%2726-111827?style=for-the-badge&logo=hackclub&logoColor=white" alt="Kritical Hacks'26"/>
 </p>
 
 <p align="center">
@@ -448,7 +448,7 @@ When opening an issue, include as much useful information as possible:
 
 **Project:** Sahayak Delhi  
 **Repository:** [jayantverma5543-cmyk/Sahayak-Delhi](https://github.com/jayantverma5543-cmyk/Sahayak-Delhi)  
-**Development context:** AZINHACK '26 — AI/ML track
+**Development context:** Kritical Hacks'26 — AI/ML track
 
 For bug reports, feature requests, and technical discussion, please use the repository's GitHub Issues and Pull Requests.
 
@@ -464,7 +464,7 @@ Before publishing the project for reuse, add a `LICENSE` file with the license y
 - **Jetpack Compose** for declarative Android UI development.
 - **The open-source community** for tools, learning resources, and inspiration.
 - **TinyFish** as a potential external search/fetch integration, subject to implementation and validation.
-- **AZINHACK '26** as the project development context.
+- **Kritical Hacks'26** as the project development context.
 
 ---
 
