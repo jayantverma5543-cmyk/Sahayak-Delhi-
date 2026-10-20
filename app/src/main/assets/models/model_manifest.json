@@ -1,0 +1,10 @@
+{
+  "name": "SahayakEmergencyTriage",
+  "version": "1.0.0",
+  "format": "tinyfish-v1",
+  "filename": "triage_v1.tfish",
+  "input_shape": [1, 5],
+  "features": ["heart_rate", "systolic_bp", "spo2_pct", "pain_scale", "respiratory_rate"],
+  "output_classes": ["MILD_STABLE", "URGENT_EVALUATION", "CRITICAL_EMERGENCY"],
+  "quantization": "INT8"
+}

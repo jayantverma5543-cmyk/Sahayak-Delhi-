@@ -1,0 +1,6 @@
+{
+  "name": "Sahayak Delhi",
+  "description": "All-in-one Delhi civic & emergency lifeline: 1-tap SOS, 10 major hospital ICU tracker, water tanker booking, doctor consults, exam counsellors, and offline first-aid guidelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
